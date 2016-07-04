@@ -36,3 +36,43 @@
     .col-11 {width: 91.66%;}
     .col-12 {width: 100%;}
 }
+.btn {		padding-top: 5%;
+			padding-left: 10px;
+			padding-right: 10px;
+			float:left;}
+
+#masthead {	
+			float:left; 
+			overflow: auto;}
+#masthead img {margin-left: 20%;}
+#contacts {	float:right; overflow:auto;}
+#buttons {	float:left;
+			padding-left: 50%;
+			min-height: 100px;
+			background-image: url("img_wave.jpg");
+			background-repeat:  no-repeat;
+			background-size : 100% 100%;}
+#buttons span { color:white;
+				margin-left: auto;
+				margin-right:auto;
+
+}
+#buttons span:hover {color:yellow;}
+
+#footnote {	float:left;
+			min-height: 50px;
+			background-image: url("img_footnote.jpg");
+			background-repeat:  no-repeat;
+			background-size : 100% 100%;}
+#main {		margin-left: 8.33%;
+			margin-right: 8.33%;}
+.column {	float:left;
+			margin-top: 5%;
+			margin-bottom: 5%;
+			margin-left: auto;
+			margin-right: auto;}
+p {			word-wrap: break-word;
+			text-align: justify;}
+#main img {	display: block;
+			margin-left:auto;
+			margin-right: auto;}
