@@ -5,13 +5,16 @@
     width: 100%;
 }
 
-#masthead { 
-            float:left; 
-            overflow: auto;}
-#masthead img {margin-left: 20%;}
+#masthead img { 
+           
+            display: block;
+            margin-left: auto;
+            margin-right: auto;}
+
 #contacts { float:right; 
             overflow:auto;
-            text-align: center;}
+            text-align: center;
+        }
 #cell_buttons {
             float:left;
             background-color: rgb(142,34,50)}
@@ -99,7 +102,9 @@ p {         word-wrap: break-word;
     .desktop_only{display: block;}
     .cell_only{display: none;}
 
-
+    #masthead img {margin-left: 20%;
+                    float:left; 
+                     overflow: auto;}
     .btn {     padding-top: 5%;
             padding-left: 10px;
             padding-right: 10px;
@@ -124,7 +129,7 @@ p {         word-wrap: break-word;
                 padding-top: 10px;
                 z-index: 1;}
     .dropdown p{
-                background-color: gray;
+                background-color: rgb(142,34,50);
                 padding-left: 10px;
                 padding-right: 10px;
                 padding-top: 5px;
@@ -134,7 +139,7 @@ p {         word-wrap: break-word;
                 border: 1px solid black;}
 
     .dropdown p:hover  {
-                background-color: red;
+                background-color: rgba(237,166,0,1);
                 }
 }
 
