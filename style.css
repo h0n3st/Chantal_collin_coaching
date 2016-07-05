@@ -11,10 +11,12 @@
         Find a way to make the height of the dropdown buttons more consistent.
         Find a downwards arrow picture for the cell dropdown buttons
         STOP THE SPANS FROM OVERLAPPING EACH OTHER
+        Work on the other pages! The comment pages might need more work!
 
 
 */
-* { box-sizing: border-box;}
+* { box-sizing: border-box;
+    font-family:"Arial", Arial, Sans-serif;}
 
 /* For mobile phones: */
 [class*="col-"] {
@@ -49,7 +51,7 @@
                 border-style: hidden;
 }
 #desktop_buttons {  float:left;
-            padding-left: 50%;
+            
             padding-top: 70px; /* SUJET À CHANGEMENT, ICI LE POSITIONNEMENT DES DKT_BUTTONS */
             min-height: 100px;
             background-image: url("img_wave.jpg");
@@ -63,6 +65,7 @@
             background-image: url("img_footnote.jpg");
             background-repeat:  no-repeat;
             background-size : 100% 100%;}
+#footnote a:hover img {box-shadow: 0px 0px 15px white;}
 #main {     padding-left: 8.33%;
             padding-right: 8.33%;}
 .column {   float:left;
@@ -128,21 +131,23 @@ p {         word-wrap: break-word;
     .btn {   
             padding-left: 10px;
             padding-right: 10px;
-            float:left;}
+            float:right;}
 
     .btn span { display: block;
                 color:white;
                 margin-left: auto;
                 margin-right:auto;
                 position: relative;
-                padding-left: 25px;
-                padding-right: 25px;
+                /*padding-left: 25px;
+                padding-right: 25px;*/
+                border-bottom: 1px solid white;
+                text-align: center;
                
 
     }
     .btn:hover span{
                 color:rgba(237,166,0,1);
-                
+                border-color: rgba(237,166,0,1);
                 }
     .dropdown { display: none;
                 position: absolute;

@@ -1,8 +1,14 @@
 
 $(document).ready(function(){
+
+
+
 	$(".content").hide();
 	$(".dropdown").hide();
 	$("#content_home").show();
+
+
+
 })
 
 function showContent(content){
