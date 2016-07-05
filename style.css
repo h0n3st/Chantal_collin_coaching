@@ -52,20 +52,38 @@
 			background-image: url("img_wave.jpg");
 			background-repeat:  no-repeat;
 			background-size : 100% 100%;}
-#buttons span { color:white;
-				margin-left: auto;
-				margin-right:auto;
+
+.btn span { color:white;
+			margin-left: auto;
+			margin-right:auto;
+            position: relative;
+            padding-left: 25px;
+            padding-right: 25px;
 
 }
-#buttons span:hover {color:yellow;}
-
+.btn span:hover {color:yellow;}
+.dropdown { display: none;
+            position: absolute;
+            background-color: gray;
+            z-index: 1;}
+.dropdown p{padding-left: 10px;
+            padding-right: 10px;
+            padding-top: 5px;
+            padding-bottom: 5px;
+            margin-top: 0px;
+            margin-bottom: 0px;}
+.dropdown p:hover  {
+            background-color: red;
+            border: 2px double black;
+            }
+.btn:hover .dropdown {display:block;}
 #footnote {	float:left;
 			min-height: 50px;
 			background-image: url("img_footnote.jpg");
 			background-repeat:  no-repeat;
 			background-size : 100% 100%;}
-#main {		margin-left: 8.33%;
-			margin-right: 8.33%;}
+#main {     padding-left: 8.33%;
+            padding-right: 8.33%;}
 .column {	float:left;
 			margin-top: 5%;
 			margin-bottom: 5%;
