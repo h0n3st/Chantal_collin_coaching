@@ -1,3 +1,19 @@
+/*
+    todo  
+        fix the colors of the dropdown menus.
+        find a way to make the white background transparent on the pictures
+            make the website background color not white
+        Customize the dropdown buttons to look like actual buttons
+        Find a font style that fits for buttons and the text better than the default one
+        Manage to complete the facebook button.
+        Fix the 5px margin at the left and right side of the website
+        Find an elegant way of dropping images (border... style and whatnot.)
+        Find a way to make the height of the dropdown buttons more consistent.
+        Find a downwards arrow picture for the cell dropdown buttons
+        STOP THE SPANS FROM OVERLAPPING EACH OTHER
+
+
+*/
 * { box-sizing: border-box;}
 
 /* For mobile phones: */
@@ -12,7 +28,7 @@
             margin-right: auto;}
 
 #contacts { float:right; 
-            overflow:auto;
+            
             text-align: center;
         }
 #cell_buttons {
@@ -34,6 +50,7 @@
 }
 #desktop_buttons {  float:left;
             padding-left: 50%;
+            padding-top: 70px; /* SUJET À CHANGEMENT, ICI LE POSITIONNEMENT DES DKT_BUTTONS */
             min-height: 100px;
             background-image: url("img_wave.jpg");
             background-repeat:  no-repeat;
@@ -102,10 +119,13 @@ p {         word-wrap: break-word;
     .desktop_only{display: block;}
     .cell_only{display: none;}
 
-    #masthead img {margin-left: 20%;
+    #masthead img {margin-left: 30%;
                     float:left; 
-                     overflow: auto;}
-    .btn {     padding-top: 5%;
+                     overflow: auto;
+                    transform:translate(0px,15px);}
+    #contacts { padding-top: 50px;
+                }
+    .btn {   
             padding-left: 10px;
             padding-right: 10px;
             float:left;}
@@ -117,6 +137,7 @@ p {         word-wrap: break-word;
                 position: relative;
                 padding-left: 25px;
                 padding-right: 25px;
+               
 
     }
     .btn:hover span{
