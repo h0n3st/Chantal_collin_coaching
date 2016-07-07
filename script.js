@@ -5,7 +5,7 @@ $(document).ready(function(){
 
 	/*$(".content").hide();
 	$("#content_home").show();
-	*/$(".dropdown").hide();
+	$(".dropdown").hide();*/
 
 
 
