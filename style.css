@@ -1,6 +1,6 @@
 /*
     todo  
-        fix the colors of the dropdown menus.
+
         find a way to make the white background transparent on the pictures
             make the website background color not white
         Customize the dropdown buttons to look like actual buttons
@@ -10,7 +10,6 @@
         Find an elegant way of dropping images (border... style and whatnot.)
         Find a way to make the height of the dropdown buttons more consistent.
         Find a downwards arrow picture for the cell dropdown buttons
-        STOP THE SPANS FROM OVERLAPPING EACH OTHER
         Work on the other pages! The comment pages might need more work!
 
 
@@ -22,7 +21,14 @@
 [class*="col-"] {
     width: 100%;
 }
-
+html,body{  height: 100%;
+            margin:0;
+            padding:0;}
+.wrapper {  min-height: 100%;
+            margin-bottom: -50px;
+            position: relative;}
+.push {     height:50px;
+            clear: both;}
 #masthead img { 
            
             display: block;
@@ -61,7 +67,7 @@
 
 
 /*.btn:hover .dropdown {display:block;}*/
-#footnote { float:left;
+#footnote { position: relative;
             
             min-height: 50px;
             background-image: url("img_footnote.jpg");
@@ -130,22 +136,17 @@ p {         word-wrap: break-word;
                     transform:translate(0px,15px);}
     #contacts { padding-top: 50px;
                 }
-    .btn {   
+    .btn {   width:125px;
             padding-left: 10px;
             padding-right: 10px;
             float:right;}
 
     .btn span { display: block;
                 color:white;
-                margin-left: auto;
-                margin-right:auto;
                 position: relative;
-                /*padding-left: 25px;
-                padding-right: 25px;*/
                 border-bottom: 1px solid white;
                 text-align: center;
                
-
     }
     .btn span:hover{
                 color:rgba(237,166,0,1);
@@ -154,7 +155,7 @@ p {         word-wrap: break-word;
     .dropdown { display: none;
                 position: absolute;
                 padding-left: 25px;
-                padding-top: 10px;
+                padding-top: 9px;
                 z-index: 1;}
     .dropdown p{
                 background-color: rgb(142,34,50);
