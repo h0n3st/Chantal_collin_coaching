@@ -61,6 +61,7 @@
 
 /*.btn:hover .dropdown {display:block;}*/
 #footnote { float:left;
+            
             min-height: 50px;
             background-image: url("img_footnote.jpg");
             background-repeat:  no-repeat;
@@ -145,7 +146,7 @@ p {         word-wrap: break-word;
                
 
     }
-    .btn:hover span{
+    .btn span:hover{
                 color:rgba(237,166,0,1);
                 border-color: rgba(237,166,0,1);
                 }
@@ -162,11 +163,14 @@ p {         word-wrap: break-word;
                 padding-bottom: 5px;
                 margin-top: 0px;
                 margin-bottom: 0px;
-                border: 1px solid black;}
+                color: rgba(237,166,0,1);
+                border: 1px solid rgba(237,166,0,1);}
 
     .dropdown p:hover  {
                 background-color: rgba(237,166,0,1);
+                color: rgb(142,34,50);
                 }
+   
 }
 
 

@@ -3,9 +3,9 @@ $(document).ready(function(){
 
 
 
-	$(".content").hide();
-	$(".dropdown").hide();
+	/*$(".content").hide();
 	$("#content_home").show();
+	*/$(".dropdown").hide();
 
 
 
@@ -16,12 +16,13 @@ function showContent(content){
 	$("#"+content).show();
 }
 function showDropdown(buttons){
-	$("#"+buttons).show("fast");
+	$("#"+buttons).slideDown("fast");
 }
 function hideDropdown(){
-	$(".dropdown").hide("fast");
+	$(".dropdown").slideUp("fast");
 }
 function toggleDropdown(buttons){
 
-	$("#"+buttons).toggle("fast");
+	$("#"+buttons).slideToggle("fast");
 }
+
