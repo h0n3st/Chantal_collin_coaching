@@ -40,12 +40,13 @@
                 color:rgba(237,166,0,1);
                 padding-top: 2.5%;
                 padding-bottom: 2.5%;
-                border: 2px double rgba(237,166,0,1);
+                border: 1px double rgba(237,166,0,1);
                 margin-top: 0px;
                 margin-bottom: 0px;
                 text-align: center;
                 }
-#cell_buttons p:hover {}
+#cell_buttons p:hover { color:rgb(142,34,50);
+                        background-color: rgba(237,166,0,1);}
 #cell_buttons .dropdown p{
                 padding-left: 30%;
                 border-style: hidden;
