@@ -79,7 +79,24 @@ html,body{
             }
 p {         
             word-wrap: break-word;
-            text-align: justify;}
+            }
+li {        
+            word-wrap:break-word;
+            list-style-position: outside;
+            text-align: justify;
+            list-style-type: disc;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            
+            
+
+
+}
+
+strong  {   
+            color: rgb(142,34,50);
+            font-weight: bold;
+}
 #main h3{   
             color: rgb(142,34,50);
             word-wrap: break-word;
