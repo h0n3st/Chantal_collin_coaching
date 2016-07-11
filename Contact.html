@@ -3,16 +3,18 @@
 	<head>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 		<script src="script.js"></script>
+		<script src="googleMaps.js"></script>
+		
+		<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyANYuLmKbFiIZQztHMUbbbMj158G4hTlfg"></script>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
-
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
 
 		<title>Chantal Collin Coaching</title>
 
 	</meta>
 
-	<body >
+	<body>
 
 		<div class="wrapper">
 			
@@ -155,30 +157,36 @@
 			<div id="main" class="col-12">
 
 				<div id="content_home" class="content">
-					<div id="profilePicture" class="col-2 column">
-						<img src="img_chantal.jpg" style="width: 60%; height: auto;border-radius:20px; box-shadow: 10px 10px 5px grey;">
+					<div class="col-4 column">
+						<img src="img_logo_transparent.jpg" style="width: 60%; height: auto;border-radius:20px; box-shadow: 10px 10px 5px grey;">
 					</div>
-					<div class="col-8 column">
+					<div class="col-4 column">
 						
 							<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 						-->
-							<h3>Titre</h3>
-							<p>
-								texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttextt<strong> Texte important </strong>texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
-
-								texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttxttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttex
+							<h3>Pour me joindre</h3>
+							<p>Courrier électronique : 
+								<a href="mailto:info@chantalcollincoaching.com">info@chantalcollincoaching.com</a>
 							</p>
-							<ul>
-							<li>Point numéro 1 <strong>important</strong></li>
-							<li>Point numéro 2 pas autant important</li>
-							</ul>
-							<p>Conclusion, <strong>explication</strong> du tout</p>
+							<p>Téléphone : 514-606-9377</p>
+							<p>Pour mieux vous servir lorsque je suis en consultation, une boîte vocale est mise à votre entière disposition. Je retournerai vos appels dans les plus brefs délais</p>
 
 							<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
 						<img src="img_ornement2.jpg">
 					</div>
+					<div id="newsletter" class="col-4 column">
+						<h3>Inscrivez-vous à ma newsletter</h3>
+						<form>
+							Votre nom :<br>
+							<input type="text" name="name"></br>
+							Votre courriel :<br>
+							<input type="text" name="email"><br>
+							<input type="submit" class="submit" value="Soumettre">
+						</form>
+					</div>
+					<div id="googleMap" style="width:75%;height:500px;margin-right:auto;margin-left:auto;display:block;margin-bottom:50px; border-radius:20px;"></div>
 				</div>
 			</div>
 			<div class="push"> </div>
