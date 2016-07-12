@@ -212,113 +212,129 @@ Coaching - approches et outils
 			 <p><a href="http://www.kidpower.org/">www.kidpower.org</a></p>
 			 <p><a href="http://www.kidpower.org/montr%C3%A9al">www.kidpower.org/montréal</a></p>
 			 <p><strong>Outils artistiques</strong> </p>
-			 <p>Exercices relevant de mes formations d’enseignante en expression dramatique (Université de Montréal) et de comédienne (École Nationale de Théâtre du Canada) ainsi que de la «Méthode Persona», d’Olivier Corchia  et Stéfano Scribani, qui utilise des masques  			  de la Commedia dell’Arte.</p> 			 <p><strong>Quelle est la différence entre l’expression </strong>          <strong>et l’art dramatique?</strong><strong> </strong></p>
-			 <p>Le but premier de <span style="color:98012e; font-size:13px;">l’art dramatique</span> est la <span style="color:98012e; font-size:13px;">représentation</span> donc le <span style="color:98012e; font-size:13px;">résultat</span> tandis que celui de <strong>l’expression dramatique</strong> est l’étude du <strong>processus</strong> de l’expression <strong>sans représentation</strong>.  			  </p>
-			 <p>Dans l’art dramatique, la <span style="color:98012e; font-size:13px;">référence externe(l’œil extérieur)</span> s’avère essentielle alors que dans l’expression dramatique la <strong>référence interne (le ressenti)</strong> est plus valorisée.</p>
+			 <p>Exercices relevant de mes formations d’enseignante en expression dramatique (Université de Montréal) et de comédienne (École Nationale de Théâtre du Canada) ainsi que de la «Méthode Persona», d’Olivier Corchia  et Stéfano Scribani, qui utilise des masques de la Commedia dell’Arte.</p> 			 
+			 <p><strong>Quelle est la différence entre l’expression et l’art dramatique?</strong></p>
+			 <p>Le but premier de <strong>l’art dramatique</strong> est la <strong>représentation</strong> donc le <strong>résultat</strong> tandis que celui de <strong>l’expression dramatique</strong> est l’étude du <strong>processus</strong> de l’expression <strong>sans représentation</strong>.</p>
+			 <p>Dans l’art dramatique, la <strong>référence externe(l’œil extérieur)</strong> s’avère essentielle alors que dans l’expression dramatique la <strong>référence interne (le ressenti)</strong> est plus valorisée.</p>
 			 <p><strong>Qu’est-ce que la méthode Persona?</strong> </p>
-			 <p>La méthode Persona est née d’une association  			  entre un coach d’affaires, Olivier Corchia 			  et un coach d’acteurs, Stéphano Scribani. </p>
-			 <p>Ce <strong><em>concept</em></strong> est inspiré des archétypes  			  à la base de la Commedia Dell’Arte, du théâtre italien  			  du 17ème siècle.</p>
-			 <p>Leur pertinence a été de choisir           <strong><em>7 archétypes qui représentent bien la plupart</em></strong>           <strong><em>des tempéraments humains.</em></strong> </p>
-			 <p>Ces types se retrouvent sous la forme de personnages 			  masqués qui se nomment: Arlequin, Zanni, Pantalon,  			  Puccinella, Docteur, Tartaglia et Capitan. </p>
-			 <p><strong><em>Le génie de cette association a été d’actualiser, </em></strong>          <strong><em>de découvrir et de dévoiler sous quels aspects, aujourd’hui,</em></strong> <strong><em>nous retrouvons ces archétypes en nous et chez les autres.</em></strong><strong></strong></p> 			 <p><strong>Quel est l’objectif ?</strong><strong> </strong></p>
-			 <p><strong><em>Maximiser la compréhension de l’être humain</em></strong>          <strong><em>afin de minimiser les fossés que peuvent créer </em></strong>          <strong><em>différents regards et différentes perceptions du monde.</em></strong></p>
-			 <p>À ce moment, ils ne pouvaient imaginer que leur clientèle  			  s’étendrait du milieu artistique au monde des affaires,  			  à celui de la thérapie et du coaching, de l’Europe  			  au continent américain.</p> 		  <p><strong>Quelle forme prend le travail avec des outils </strong>          <strong>artistiques comme ceux-ci?</strong> </p>
-			 <p>Beaucoup d’espace pour aller à la rencontre de soi-même,  			  pour ouvrir la voie. </p>
-			 <p><strong>Un travail parsemé de toutes sortes d’expressions</strong>  			  (verbale, non-verbale, visuelle, auditive, kinesthésique)  			  qui se vivent à travers le mouvement,  			  la parole, l’écriture, le visionnement de documents,  			  les arts plastiques, <strong>sous la forme d’exercices actifs  			  ou contemplatifs selon les formations.</strong></p>
-			 <p><u>«Une œuvre d’homme n’est rien d’autre que ce long 			  cheminement pour retrouver par les détours de l’art 			  les deux ou trois images simples et grandes  			  sur lesquelles le cœur, une première fois, s’est ouvert.» 			   			  Albert Camus «L'envers et l’endroit».</u></p>
-			 <p><a href="http://www.ent-nts.qc.ca/">www.ent-nts.qc.ca</a>         <a href="http://www.oliviercorchia.fr">www.oliviercorchia.fr</a></p>
+			 <p>La méthode Persona est née d’une association entre un coach d’affaires, Olivier Corchia et un coach d’acteurs, Stéphano Scribani. </p>
+			 <p>Ce <strong><em>concept</em></strong> est inspiré des archétypes à la base de la Commedia Dell’Arte, du théâtre italien du 17ème siècle.</p>
+			 <p>Leur pertinence a été de choisir <strong><em>7 archétypes qui représentent bien la plupart des tempéraments humains.</em></strong> </p>
+			 <p>Ces types se retrouvent sous la forme de personnages masqués qui se nomment: Arlequin, Zanni, Pantalon, Puccinella, Docteur, Tartaglia et Capitan. </p>
+			 <p><strong><em>Le génie de cette association a été d’actualiser, de découvrir et de dévoiler sous quels aspects, aujourd’hui, nous retrouvons ces archétypes en nous et chez les autres.</em></strong></p> 			 
+			 <p><strong>Quel est l’objectif ?</strong></p>
+			 <p><strong><em>Maximiser la compréhension de l’être humain afin de minimiser les fossés que peuvent créer différents regards et différentes perceptions du monde.</em></strong></p>
+			 <p>À ce moment, ils ne pouvaient imaginer que leur clientèle s’étendrait du milieu artistique au monde des affaires, à celui de la thérapie et du coaching, de l’Europe au continent américain.</p> 		  
+			 <p><strong>Quelle forme prend le travail avec des outils artistiques comme ceux-ci?</strong> </p>
+			 <p>Beaucoup d’espace pour aller à la rencontre de soi-même, pour ouvrir la voie. </p>
+			 <p><strong>Un travail parsemé de toutes sortes d’expressions</strong> (verbale, non-verbale, visuelle, auditive, kinesthésique) qui se vivent à travers le mouvement, la parole, l’écriture, le visionnement de documents, les arts plastiques, <strong>sous la forme d’exercices actifs ou contemplatifs selon les formations.</strong></p>
+			 <p><u>«Une œuvre d’homme n’est rien d’autre que ce long cheminement pour retrouver par les détours de l’art les deux ou trois images simples et grandes sur lesquelles le cœur, une première fois, s’est ouvert.» Albert Camus «L'envers et l’endroit».</u></p>
+			 <p><a href="http://www.ent-nts.qc.ca/">www.ent-nts.qc.ca</a> </p>         
+			 <p><a href="http://www.oliviercorchia.fr">www.oliviercorchia.fr</a></p>
 			 <p><a href="coaching.html">Retour</a></p>
 Coaching - roles et responsabilités
 		
-			 <p><strong>Le rôle et les responsabilités du coach</strong><strong> </strong></p>
-			 <p><strong>Un coach professionnel certifié c’est…</strong></p>
-			 <ul>
-			  <li> Une <strong>personne</strong> qui a acquis une <strong>formation solide</strong> 		    en coaching dans une école reconnue.</li> 			 
-        <li> Un <strong>regard bienveillant</strong> qui travaille avec la conscience qu’il est <strong>expert du processus<br></strong> et
-			  «qu’un coach est un éternel non-expert qui n’oublie jamais que chaque client est le seul expert de sa propre vie». L’art de coacher, Pierre-Blanc Sahnoun.</li>
+			<p><strong>Le rôle et les responsabilités du coach</strong><strong> </strong></p>
+			<p><strong>Un coach professionnel certifié c’est…</strong></p>
+			<ul>
+			  	<li> Une <strong>personne</strong> qui a acquis une <strong>formation solide</strong> en coaching dans une école reconnue.</li> 			 
+        		<li> Un <strong>regard bienveillant</strong> qui travaille avec la conscience qu’il est <strong>expert du processus </strong> et «qu’un coach est un éternel non-expert qui n’oublie jamais que chaque client est le seul expert de sa propre vie». L’art de coacher, Pierre-Blanc Sahnoun.</li>
          
-			  <li> Un <strong>être profondément honnête</strong>,  			  engagé dans un processus de transformation intérieure, qui a suffisamment traversé d’épreuves,          <strong>qui se sent émotivement<br> et intellectuellement</strong> <strong>outillé <br>pour accompagner efficacement         </strong> d’autres personnes vers l’accomplissement<br> de leurs objectifs.</li>
+			  	<li> Un <strong>être profondément honnête</strong>, engagé dans un processus de transformation intérieure, qui a suffisamment traversé d’épreuves, <strong>qui se sent émotivement et intellectuellement outillé pour accompagner efficacement         </strong> d’autres personnes vers l’accomplissement de leurs objectifs.</li>
 			           
-			  <li> Un <strong>professionnel démontrant une capacité </strong>          <strong>d’introspection, d’humilité, de pouvoir intervenir </strong><strong>aussi avec son cœur </strong>et reconnaissant l’importance de se remettre en question, <br><strong>de s’accorder du temps </strong><strong>de partage <br>et de supervision</strong> avec des personnes ressources<br> du milieu.</li> 			  
+			  	<li> Un <strong>professionnel démontrant une capacité d’introspection, d’humilité, de pouvoir intervenir aussi avec son cœur </strong>et reconnaissant l’importance de se remettre en question, <strong>de s’accorder du temps de partage et de supervision</strong> avec des personnes ressources du milieu.</li> 			  
         
-			  <li> Un <strong>catalyseur de changement</strong> qui reste bien  			  <strong>centré sur vos objectifs</strong> et sur les<strong> progrès</strong>  			  que vous avez réalisés et qui vous accompagne 			  afin de les maintenir.</li> 
-			  <li> Un <strong>collègue </strong>qui reconnaît les compétences  			  des professionnels oeuvrant dans les sphères connexes d’intervention (psychologie et et psychiatrie…)<br>vers lesquelles il<strong> peut référer</strong> aisément son client lorsque la situation est appropriée.</li>        </ul>
+			  	<li> Un <strong>catalyseur de changement</strong> qui reste bien <strong>centré sur vos objectifs</strong> et sur les<strong> progrès</strong> que vous avez réalisés et qui vous accompagne afin de les maintenir.</li> 
+			  
+			  	<li> Un <strong>collègue </strong>qui reconnaît les compétences des professionnels oeuvrant dans les sphères connexes d’intervention (psychologie et et psychiatrie…) vers lesquelles il<strong> peut référer</strong> aisément son client lorsque la situation est appropriée.</li>        
+		  	</ul>
  Coaching - deontologie
 
 			 <p><strong>Cadre éthique</strong></p>
 			 <p>Conformément aux exigences des grands courants actuels du coaching et aux définitions spécifiques des compétences du coach telles que suggérées dans le domaine de la <a href="coachingoutils.html"><strong>PNL</strong></a>, le coach professionnel certifié en PNL peut offrir des services de qualité en coaching, fondés sur une approche intégrant les outils, approches et la qualité d’être conférée par un important parcours d’apprentissage, de pratique et de travail sur soi qu’est le programme post-maître spécialisé en coaching.</p>
-			 <p>De plus, le coach professionnel certifié en PNL devra faire preuve d’une éthique professionnelle sans reproche et s’assurer de poursuivre la mise à niveau de ses connaissances et d’obtenir de manière régulière de la supervision par un coach d’expérience.<strong> </strong></p>
+			 <p>De plus, le coach professionnel certifié en PNL devra faire preuve d’une éthique professionnelle sans reproche et s’assurer de poursuivre la mise à niveau de ses connaissances et d’obtenir de manière régulière de la supervision par un coach d’expérience.</p>
 			 <strong>Écologie interpersonnelle</strong>
 			 <p>Respecter la dignité et l’honneur de l’autre, par la reconnaissance de son identité propre, de ses ressources personnelles uniques, et par la pertinence de son intervention qui tient compte des différences entre les personnes.</p>
 			 <p>Utiliser ses compétences en PNL pour contribuer à l’acquisition de la connaissance, de la compréhension du processus et la protection du bien-être des personnes faisant appel à ses services. Les buts des deux parties seront toujours mutuellement partagés.</p>
-			 <p><strong>Responsabilité personnelle</strong>			 </p>
+			 <p><strong>Responsabilité personnelle</strong></p>
 			 <p>Toutes représentations de niveau de compétence, formation, connaissances et autres attestations seront justes, exactes et complètes. </p>
 			 <p>Accepter entièrement la responsabilité de ses actes professionnels et de leurs conséquences : s’assurer de ce fait de l’utilisation pertinente de ses services.</p>
 			 <p>Favoriser par tous les moyens l’expansion de son propre modèle du monde et l’acquisition de nouvelles connaissances en la matière.</p>
-			 <strong>Éthique professionnelle</strong>
+			 <p><strong>Éthique professionnelle</strong></p>
 			 <p>Présenter la nature et les buts de l’intervention en termes clairs, facilement compréhensibles et évalués par toute personne. La description détaillée et précise de tout processus et contenu du modèle à employer sera faite de manière à faire comprendre les raisons et les moyens de chaque étape. À défaut de la compréhension du/des sujets, le membre terminera aussitôt son implication.</p>
 			 <p>La limpidité et l’ouverture d’esprit feront émerger immédiatement toute possibilité de conflits d’intérêts en ce qui a trait à toute intervention auprès de tout client ou collègue. Il ne saurait être question d’exploiter les relations avec les élèves, clients, subordonnés ou toute personne avec qui il entretient des relations professionnelles. </p>
-			 <strong>Horizon de la compétence actuelle</strong>
+			 <p><strong>Horizon de la compétence actuelle</strong></p>
 			 <p>Reconnaître les limites de ses compétences et des techniques PNL employées, reconnaître les frontières de ses connaissances personnelles et de ses habiletés acquises qui pourraient faire obstacle à l’atteinte de l’objectif souhaité pour le client. Devant cette constatation, chercher immédiatement la consultation auprès de collègues qualifiés. Se détacher de la situation lorsque l’on croît que ses frontières de compétences sont atteintes.</p>
-			 <strong>Le respect des autres professions</strong>
+			 <p><strong>Le respect des autres professions</strong><p>
 			 <p>Posséder une connaissance suffisante d’autres professions pour permettre la recommandation appropriée à un professionnel d’un champ d’activité connexe.</p>
-			 <p>Respecter les compétences des professionnels dans les sphères connexes d’intervention par l’acquisition des connaissances de base et du respect de leurs procédures usuelles. 			           <strong><a href="http://www.sicpnl.org">www.sicpnl.org</a></strong></p>
- <p>          </p>
+			 <p>Respecter les compétences des professionnels dans les sphères connexes d’intervention par l’acquisition des connaissances de base et du respect de leurs procédures usuelles. <strong><a href="http://www.sicpnl.org">www.sicpnl.org</a></strong></p>
+
 Coaching - comment choisir un coach
 		
 			 <p><strong>Comment choisir un(e) coach PNL ?</strong> </p>
 			 <p>Le coach PNL se situe à la croisée de deux approches d’accompagnement : la PNL et le coaching. Cette différence lui confère une habileté d’accompagnement de qualité, ainsi qu’un savoir être appréciable. </p>
 			 <p>Il est important, lors du choix d’un coach, quel qu’il soit, de bien s’assurer de la qualité et de la solidité de son savoir et de son expérience. </p>
 			 <p>C’est ce besoin de qualité et de professionnalisme dans l’accompagnement du coaching qui nous a poussés à mettre sur pied la SICPNL. Au sein de notre répertoire de membres, vous retrouverez nos membres certifiés, coachs PNL professionnels : </p>
-			   <li> Des coachs PNL ayant reçu une formation de choix, qui rencontrent les critères d’excellence de la Société. Nous nous assurons que ces coachs aient également reçu une formation en coaching, de manière à mieux maîtriser les outils d’accompagnement particulier du coaching.<br> 			   <li> Les coachs PNL, membres certifiés, détiennent une expérience du coaching – et ont reçu de la supervision – démontrant leur souci continu d’amélioration et d’évolution.<br> 			   <li> Finalement, les coachs PNL membres de la SICPNL ont accès à un réseau de coachs, et sont encouragés à utiliser les ressources et outils de savoir et d’amélioration qui leur permettront de se maintenir à jour des avancées de la PNL et du coaching.<p></p>
+			   <li> Des coachs PNL ayant reçu une formation de choix, qui rencontrent les critères d’excellence de la Société. Nous nous assurons que ces coachs aient également reçu une formation en coaching, de manière à mieux maîtriser les outils d’accompagnement particulier du coaching.</li>
+			   <li> Les coachs PNL, membres certifiés, détiennent une expérience du coaching – et ont reçu de la supervision – démontrant leur souci continu d’amélioration et d’évolution.</li>
+			   <li> Finalement, les coachs PNL membres de la SICPNL ont accès à un réseau de coachs, et sont encouragés à utiliser les ressources et outils de savoir et d’amélioration qui leur permettront de se maintenir à jour des avancées de la PNL et du coaching.</li>
 			 <p><strong>Choisir son coach</strong> </p>
 			 <p>Le coach est un allié dans votre démarche vers l’atteinte de l’objectif que vous vous êtes fixé. </p>
 			 <p>Il se servira de différents outils dont il dispose afin de vous aider à atteindre cet objectif le plus facilement et le plus rapidement possible. </p>
 			 <p>Vous vous apprêtez à amorcer votre démarche. Et cette démarche implique investissement de temps et argent ; il est donc important de bien sélectionner son coach. Voici quelques suggestions de base. </p>
-			   <li> Comparez ! Rencontrez au moins 3 coachs avant d’arrêter votre choix. N’hésitez pas à le questionner sur les points suivants<br> 			  ◦ sa formation en coaching,  			  ◦ sa formation connexe en relation d’aide,  			  ◦ son parcours personnel et professionnel,  			  ◦ ses affiliations (s'assurer qu'il est membre de un ou deux groupements),  			  ◦ ses clients et références.<br><br> <li> Les plus chers ne sont pas nécessairement les meilleurs ! Les honoraires d’un coach peuvent varier de $50 à $150 l’heure, cet écart est influencé par la spécialisation du coach, ses modes et cibles d’intervention, sa localisation géographique et bien d’autres. Souvenez-vous toutefois que le tarif n’est pas garant du savoir-être et savoir-faire du coach.<br> 			   <li> Recherchez la chimie ! Avant tout, avant de retenir les services de votre coach, assurez-vous que vous vous sentez tout à fait à l’aise avec elle. Faites confiance à vos ressentis du premier entretien. En coaching, tout se passe dans la relation, et après tout, c’est de vous et de votre succès dont il s’agit ! <p></p>
+			 <ul>
+			   <li>Comparez ! Rencontrez au moins 3 coachs avant d’arrêter votre choix. N’hésitez pas à le questionner sur les points suivants</li>
+			   <ul>
+				   <li>sa formation en coaching,</li>
+				   <li>sa formation connexe en relation d’aide, </li>		  
+				   <li>son parcours personnel et professionnel, </li>			  
+				   <li>ses affiliations (s'assurer qu'il est membre de un ou deux groupements), </li> 			  
+				   <li>ses clients et références.</li>
+			   </ul>
+			   <li> Les plus chers ne sont pas nécessairement les meilleurs ! Les honoraires d’un coach peuvent varier de $50 à $150 l’heure, cet écart est influencé par la spécialisation du coach, ses modes et cibles d’intervention, sa localisation géographique et bien d’autres. Souvenez-vous toutefois que le tarif n’est pas garant du savoir-être et savoir-faire du coach.</li>
+			   <li> Recherchez la chimie ! Avant tout, avant de retenir les services de votre coach, assurez-vous que vous vous sentez tout à fait à l’aise avec elle. Faites confiance à vos ressentis du premier entretien. En coaching, tout se passe dans la relation, et après tout, c’est de vous et de votre succès dont il s’agit !</li> 
+			 </ul>
 		    <p><a href="http://www.sicpnl.org">www.sicpnl.org</a></p>
 Commentaires
 
-			 <p><strong>Commentaires</strong></p>
-			 <p>«MERCI infiniment de ta générosité et disponibilité, durant ton accompagnement lors à l'automne 2006.  			  Plus qu'une transition de carrière, une transition de vie.</p>
-			 <p>Une période confuse et tel un soleil rayonnant une chaleur humaine et une clairvoyance, tu as su me remettre d'aplomb.</p>
-			 <p>J'ai pu bénéficier avec toi de ce que j'appelle une structure flexible et consciente, 			  soit: un encadrement professionnel et une ouverture d'esprit qui sait s'ajuster au rythme et aux besoins de la personne.</p>
-			 <p>Même si la situation est parfois complexe, tu sais utiliser les bons outils pour démasquer les blocages et renforcer le positif.</p>
-			 <p>Tu m'as aidée à ramener l'ordre et l'harmonie dans mon être. J'ai pu effectuer ce virage dans le plein de moi-même et de mes ressources.</p>
-			 <p>Ta force est que tu sais rencontrer l'être dans sa globalité. Volonté, intelligence et amour étaient au rendez-vous! </p>
-			 <p>Excellent! Belle continuité.A+»</p>
-			 <p><em>Michèle Lépine</em></p><br> 
+			<p><strong>Commentaires</strong></p>
+			<p>«MERCI infiniment de ta générosité et disponibilité, durant ton accompagnement lors à l'automne 2006. Plus qu'une transition de carrière, une transition de vie.</p>
+			<p>Une période confuse et tel un soleil rayonnant une chaleur humaine et une clairvoyance, tu as su me remettre d'aplomb.</p>
+			<p>J'ai pu bénéficier avec toi de ce que j'appelle une structure flexible et consciente, soit: un encadrement professionnel et une ouverture d'esprit qui sait s'ajuster au rythme et aux besoins de la personne.</p>
+			<p>Même si la situation est parfois complexe, tu sais utiliser les bons outils pour démasquer les blocages et renforcer le positif.</p>
+			<p>Tu m'as aidée à ramener l'ordre et l'harmonie dans mon être. J'ai pu effectuer ce virage dans le plein de moi-même et de mes ressources.</p>
+			<p>Ta force est que tu sais rencontrer l'être dans sa globalité. Volonté, intelligence et amour étaient au rendez-vous! </p>
+			<p>Excellent! Belle continuité.A+»</p>
+			<p><em>Michèle Lépine</em></p><br> 
 			<p>«Un grand changement de carrière...un burn out sévère....un bilan de santé mauvais...un questionnement sur ses valeurs, le sens de sa vie et sa spiritualité....et bien, en toute transparence, j'ai été frappé de plein fouet et sans crier gare. Un jour, la vie m'a fait croisé Chantal. La grande douceur de son approche, son talent d'écoute et son approche professionnelle, un à un ou lors d'ateliers m'ont procuré une grande paix intérieure et a agi comme un baume sur mes souffrances. Le cheminement intérieur que j'ai fait en sa compagnie m'a fait découvrir toute une autre facette de la vie. Chantal a servi de guide à un aveugle. Le coup de barre est donné. Tout un univers magique s'est ouvert devant moi.»</p>
 			<p><em>Michel Therriault, consultant</em></p><br> 
 			<p>«Chantal est une coach EXCEPTIONNELLE ! J'ai rarement eu le privilège d'avoir accès aussi facilement à une personne d'une telle qualité d'être et d'un savoir faire aussi magistralement appliqué ! Mes dépenses sont toujours calculées en terme de rentabilité et je peux clamer haut et fort que travailler avec elle fut pour moi un investissement extraordinairement rentable. Si vous souhaitez ouvrir les portes de votre conscience et accéder à votre potentiel illimité, je vous recommande très chaudement Chantal... »</p>
 			<p><em>David Bernard</em></p>
 			<p><em>Conférencier professionnel, Auteur, Beauté #26 au Banquier</em></p><br> 
 
-			 <p>Travailler avec toi m'a permis d'accéder rapidement à une grande conscience, de faire un voyage intérieur au plus profond de moi-même. 			  Me permettre de comprendre certains comportements avilissants et, par le fait même, de m'en libérer. Merci!</p>
-			 <p><em>F.M.</em></p><br> 			 <p> Coaching ??? Démarche personnelle qui vise à nous mettre en contact avec notre moi profond, à libérer notre créativité, notre estime et notre amour de nous même. C'est un cheminement qui nous permet de passer de l'ombre à la lumière. De passer de l'attente, de l'inaction, à l'action, au mouvement, au déclenchement des choses.  Ce cadeau que je me suis fait en pensant à moi, me sert au quotidien dans mes relations interpersonnelles et dans l'éducation de mes enfants.  Merci Chantal  <em>Mélanie</em> </p>
+			<p>Travailler avec toi m'a permis d'accéder rapidement à une grande conscience, de faire un voyage intérieur au plus profond de moi-même. Me permettre de comprendre certains comportements avilissants et, par le fait même, de m'en libérer. Merci!</p>
+			<p><em>F.M.</em></p>		 
+			<p> Coaching ??? Démarche personnelle qui vise à nous mettre en contact avec notre moi profond, à libérer notre créativité, notre estime et notre amour de nous même. C'est un cheminement qui nous permet de passer de l'ombre à la lumière. De passer de l'attente, de l'inaction, à l'action, au mouvement, au déclenchement des choses.  Ce cadeau que je me suis fait en pensant à moi, me sert au quotidien dans mes relations interpersonnelles et dans l'éducation de mes enfants. Merci Chantal <em>Mélanie</em> </p>
 
-			 <p></p>
-			 <p> </p>
-			 <p>Chantal est ma lumière.           Elle entre tout en douceur dans la pièce et vous accueille avec son coffre d'outils plein à déborder. Une simple petite question envoyée comme par magie et tout s'ouvre devant vous! On se sent énormément en confiance avec Chantal et le chemin parcouru est tout a fait incroyable. C'est une expérience vraiment exceptionnelle à vivre, ce cheminement changera votre vie... pour le mieux! <br> 
-<em>YB</em></p>
+			<p>Chantal est ma lumière. Elle entre tout en douceur dans la pièce et vous accueille avec son coffre d'outils plein à déborder. Une simple petite question envoyée comme par magie et tout s'ouvre devant vous! On se sent énormément en confiance avec Chantal et le chemin parcouru est tout a fait incroyable. C'est une expérience vraiment exceptionnelle à vivre, ce cheminement changera votre vie... pour le mieux! <em>YB</em></p>
 
-<p>«L'hiver dernier, j'ai vécu une étape douloureuse dans ma vie dont je n'arrivais pas à traverser seule. J'ai rencontré Chantal et j'ai découvert une femme qui a su, par son professionnalisme, son support et sa confiance, me donner les outils pour me connaître, de me faire confiance et de me donner le courage de m'offrir ce qu'il y a de mieux pour moi et mon fils. Depuis, j'utilise régulièrement les techniques acquises lors des séances pour éviter de retourner en arrière et pour me rappeler de toujours regarder devant moi la tête haute. Merci Chantal pour ta générosité et ta persévérance.»</p>
+			<p>«L'hiver dernier, j'ai vécu une étape douloureuse dans ma vie dont je n'arrivais pas à traverser seule. J'ai rencontré Chantal et j'ai découvert une femme qui a su, par son professionnalisme, son support et sa confiance, me donner les outils pour me connaître, de me faire confiance et de me donner le courage de m'offrir ce qu'il y a de mieux pour moi et mon fils. Depuis, j'utilise régulièrement les techniques acquises lors des séances pour éviter de retourner en arrière et pour me rappeler de toujours regarder devant moi la tête haute. Merci Chantal pour ta générosité et ta persévérance.»</p>
 			<p><em>Nathalie B.</em></p><br> 
-			 <p><strong><span class="style1">PNL:</span></strong> </p>
-			 <p>Puissante Nourriture Libératrice pour le corps, l'âme et l'esprit.</p>
-			 <p><em>Brigitte</em></p><br> 			 <p>Voici mes pensées concernant mon coaching PNL avec Chantal Collin. Cette femme merveilleuse a réussi à m'aider dans mon évolution personnelle. Maintenant,je suis capable d'avancer vers l'avenir sans crainte. J'ai acquis des outils pour être plus forte et meilleure dans chacun des rôles de ma vie. Elle m'a accompagné durant ce processus d'une telle façon que je me sentais en sécurité comme un enfant dans les bras de ses parents. </p>
-			 <p>Pour tout cela et beaucoup plus MERCI Chantal.</p>
-		  <em>Annick Leguerrier</em><br> 
-<p>«Ce que je retiens le plus, c'est que pour moi, la pnl, c'est voir la vie en couleur, c'est mettre de l'énergie là où ça marche! Fini le noir et blanc!</p>
+			<p><strong>PNL:</strong> </p>
+			<p>Puissante Nourriture Libératrice pour le corps, l'âme et l'esprit.</p>
+			<p><em>Brigitte</em></p>
+			<p>Voici mes pensées concernant mon coaching PNL avec Chantal Collin. Cette femme merveilleuse a réussi à m'aider dans mon évolution personnelle. Maintenant,je suis capable d'avancer vers l'avenir sans crainte. J'ai acquis des outils pour être plus forte et meilleure dans chacun des rôles de ma vie. Elle m'a accompagné durant ce processus d'une telle façon que je me sentais en sécurité comme un enfant dans les bras de ses parents. </p>
+			<p>Pour tout cela et beaucoup plus MERCI Chantal.</p>
+		  	<p><em>Annick Leguerrier</em></p>
+			<p>«Ce que je retiens le plus, c'est que pour moi, la pnl, c'est voir la vie en couleur, c'est mettre de l'énergie là où ça marche! Fini le noir et blanc!</p>
  
-<p>En ce qui me concerne cela a été le point de départ de la reconnexion avec Moi et c'est une démarche que j'ai intégrée à la méditation.</p>
+			<p>En ce qui me concerne cela a été le point de départ de la reconnexion avec Moi et c'est une démarche que j'ai intégrée à la méditation.</p>
  
-<p>Merci à toi et vive la PNL!»</p>
+			<p>Merci à toi et vive la PNL!»</p>
 			<p><em>Andrée-Anne Simard</em></p>
-			<p></p>
 			<p><strong>Commentaires sur les formations</strong></p>
-			<p><strong><span class="style1">FORMATIONS DE CRÉATEURS</span></strong>
-			</p><p>«J’ai découvert un outil de travail extraordinaire et le voyage fut très très intéressant»</p>
+			<p><strong>FORMATIONS DE CRÉATEURS</strong></p>
+			<p>«J’ai découvert un outil de travail extraordinaire et le voyage fut très très intéressant»</p>
 			<p><em>Jeff Boudreault, comédien</em></p>
 			<p>«Cette formation n’est pas un luxe mais bien une raison de s’accorder un accompagnement de grande classe. C’est une excellente façon d’approfondir notre quête intérieure dans un environnement sécurisant et enveloppant. Une belle aventure!»</p>
 			<p><em>DominiqueLamy, comédienne.</em></p>
@@ -330,19 +346,19 @@ Commentaires
 			<p><em>Valérie Cantin, comédienne.</em></p>
 			<p>Chantal est précise dans ses indications. Elle gère bien le temps tout en étant souple. Elle propose une évolution tout au long de la fin de semaine. Sensible aux différents participants, elle est claire et son instinct nous guide vers la lumière et la clarté.</p>
 			<p><em>Jeanne Ostiguy, comédienne.</em></p>
-			<p>" L'amour, l'intimité du groupe, la passion de Chantal et le plaisir des exercices, m'ont aidé à mettre des mots sur mes rêves et sur les moyens pour y parvenir rapidement. " 			 " J'ai commencé l'atelier le samedi matin dans un certain état, et déjà dimanche 			 au soir, une transformation avait débuté en moi! 			 C'est fort, concret, simple, amusant, touchant, bouleversant..."</p>
+			<p>" L'amour, l'intimité du groupe, la passion de Chantal et le plaisir des exercices, m'ont aidé à mettre des mots sur mes rêves et sur les moyens pour y parvenir rapidement. J'ai commencé l'atelier le samedi matin dans un certain état, et déjà dimanche au soir, une transformation avait débuté en moi! C'est fort, concret, simple, amusant, touchant, bouleversant..."</p>
 			<p><em>Annick Desmarais, comédienne.</em></p>
 			<p>«Pour moi, l’atelier a été une façon d’asseoir mes ambitions sur une vraie confiance en moi. En fait, pendant la fin de semaine, ma voie s’est imposée avec une telle force que non seulement je n’ai plus douté de mes capacités, mais de plus, je savais profondément, désormais, que j’avais choisi la bonne discipline, pour moi. Un must!»</p>
 			<p><em>Judith Baribeau, comédienne.</em></p>
-			<p>Chantal a une manière tout à fait personnelle de bien comprendre les besoins des artistes 			 et elle a une vue d'ensemble face au métier qui, grâce à sa propre expérience, fait résonnance dans notre vie d'artiste.</p>
+			<p>Chantal a une manière tout à fait personnelle de bien comprendre les besoins des artistes et elle a une vue d'ensemble face au métier qui, grâce à sa propre expérience, fait résonnance dans notre vie d'artiste.</p>
 			<p><em>Liane Simard, comédienne.</em></p>
 			<p>«L’atelier suivi avec Chantal Collin a été révélateur. Il m’a permis de me situer, de bien définir ce que je voulais et d’atteindre mes buts. Mieux encore, de me permettre de croire que ces buts étaient parfaitement réalisables. Chantal m’a non seulement ouvert les portes qui étaient fermées en moi, mais elle m’a aussi donné les clefs afin de pouvoir les ouvrir à volonté, et les outils pour pouvoir en fabriquer d’autres à volonté ! Une véritable aurore dans ma vie!»</p>
 			<p><em>Françis Vachon, comédien.</em></p>
-			<p>"J'ai participé à deux formations différentes avec Chantal Collin et je ne saurais trop vous recommander l'expérience! 			 Les outils mis à notre disposition sont clairs, précis, et efficaces: et les résultats sont parfois surprenants! "</p>
+			<p>"J'ai participé à deux formations différentes avec Chantal Collin et je ne saurais trop vous recommander l'expérience! Les outils mis à notre disposition sont clairs, précis, et efficaces: et les résultats sont parfois surprenants! "</p>
 			<p><em>Patrick Baby, comédien.</em></p>
-			<p>« Grâce aux 2 formations que j’ai suivi, j’ai maintenant plus d’outils pour comprendre et modifier mes comportements. 			 J’ai surtout développé, face à mes petits et grands travers, une approche plus ludique qui me permet de dédramatiser et de remettre en perspective les situations difficiles. 			 La pertinence des interventions de Chantal, son écoute ainsi que son profond respect des limites de chaque participant nous amènent dans un grand état de confiance 			 qui favorise l’introspection et nous permet d’aller au-delà des blocages et patterns habituels. »</p>
+			<p>« Grâce aux 2 formations que j’ai suivi, j’ai maintenant plus d’outils pour comprendre et modifier mes comportements. J’ai surtout développé, face à mes petits et grands travers, une approche plus ludique qui me permet de dédramatiser et de remettre en perspective les situations difficiles. La pertinence des interventions de Chantal, son écoute ainsi que son profond respect des limites de chaque participant nous amènent dans un grand état de confiance qui favorise l’introspection et nous permet d’aller au-delà des blocages et patterns habituels. »</p>
 			<p><em>Patrick Olafson-Hénault, comédien et chanteur.</em></p>
-			<p>J'ai fait appel à Chantal pour m'éclairer dans ma vie personnelle et professionnelle. 			 Elle a d'abord bien écouté la femme, pour mieux diriger l'animatrice. 			 Toujours très pertinente, elle a le bon mot et la bonne image pour me 			 permettre d'avancer. Chantal sait m'aider à mettre en lumière le meilleur de 			 moi-même au profit de ma vie de maman et d'artiste. Chaque minute passée 			 avec elle me permet de grandir, merci Chantal!</p>
+			<p>J'ai fait appel à Chantal pour m'éclairer dans ma vie personnelle et professionnelle. Elle a d'abord bien écouté la femme, pour mieux diriger l'animatrice. Toujours très pertinente, elle a le bon mot et la bonne image pour permettre d'avancer. Chantal sait m'aider à mettre en lumière le meilleur de moi-même au profit de ma vie de maman et d'artiste. Chaque minute passée avec elle me permet de grandir, merci Chantal!</p>
 			<p><em>Saskia Thuot, animatrice.</em></p>
 			<p><strong><span class="style1">REBRANCHEZ-VOUS SUR VOTRE CRÉATIVITÉ</span></strong></p>
 			<p>«Je conseille cette formation à des gens qui veulent faire un cheminement personnel afin de trouver leurs vraies valeurs et de se retrouver intérieurement.»</p>
@@ -360,8 +376,8 @@ Commentaires
 			<p><em>Dominique F.</em></p>
 			<p>«Cette formation vous aidera à transformer votre vision du futur en actions concrètes que vous vous engagez à prendre. À vous de déterminer ce que vous en ferez.»</p>
 			<p><em>P.D</em></p>
-			<p><strong><span class="style1">« Introduction à la PNL (Qui suis-je en tant que communicateur, leader et enseignant/intervenant dans mon quotidien?) »</span></strong></p>
-			 			« Tout le monde est gagnant à vivre cette formation. »
+			<p><strong>« Introduction à la PNL (Qui suis-je en tant que communicateur, leader et enseignant/intervenant dans mon quotidien?) »</strong></p>
+			<p>« Tout le monde est gagnant à vivre cette formation. »</p>
 			<p><em>Josée Brais</em>, enseignante arts plastiques</p>
 			<p>« Excellente formation. Très dynamique. Extrêmement intéressant. »</p>
 			<p><em>Anick Morin</em>, enseignante 3e année</p>
@@ -371,25 +387,25 @@ Commentaires
 			<p><em>Alexis Paré</em>, enseignant 5e année</p>
 			<p>« Applications quotidiennes, pertinentes, à utiliser avec pleins de clientèles. »</p>
 			<p><em>France Bois</em>, 2e année</p>
-			<p></p>
+			<br>
 			<p><strong><span class="style1">« Introduction aux masques »</span></strong></p>
 			<p>« Cette formation s’est avérée très pertinente et enrichissante tant pour mon travail et ma croissance personnelle ».</p>
 			<p><em>Estelle Bérubé</em>, enseignante 3e année</p>
 			<p>« Tout le monde devrait suivre cette formation. J’ai l’impression de mieux me connaître, donc en mesure de mieux connaître mes élèves, mes collègues, mes proches,… à leur juste valeur. »</p>
 			<p><em>Annie Gagnon</em>, enseignante 5e année</p>
-			<p> 			 « C’est une formation qui respecte l’humain et nous réconcilie avec nous-même. Mieux se connaître, s’accepter nous permet de mieux être avec les enfants.»</p>
+			<p> « C’est une formation qui respecte l’humain et nous réconcilie avec nous-même. Mieux se connaître, s’accepter nous permet de mieux être avec les enfants.»</p>
 			<p><em>Micheline Beaudoin</em>, AVSEC</p>
 			<p>« Je crois que tous les enseignants devraient avoir l’occasion d’être formé là-dessus, soit en milieu scolaire ou à l’université. C’est tellement pertinent! »</p>
 			<p><em>Marie-Claude Boucher</em>, enseignante 6e année</p>
-			<p></p>
-			<p><strong><span class="style1">Mots sur la formatrice</span></strong></p>
+			<br>
+			<p><strong>Mots sur la formatrice</strong></p>
 			<p>« Formatrice dynamique, en confiance, aidante et à l’écoute. »</p>
 			<p><em>Isabelle Villeneuve</em>, 5e année</p>
-			<p> 			 « Formatrice est professionnelle, sincère, humaine et à l’écoute. »</p>
+			<p> « Formatrice est professionnelle, sincère, humaine et à l’écoute. »</p>
 			<p><em>Vanessa Boucher</em>, enseignante 1e année</p>
-			<p> 			 « L’animation a été très pertinente par le dynamisme, l’accessibilité, l’ouverture, les exemples pertinents et la présence de l’intervenante. »</p>
+			<p>	« L’animation a été très pertinente par le dynamisme, l’accessibilité, l’ouverture, les exemples pertinents et la présence de l’intervenante. »</p>
 			<p><em>Marie-Christine Champagne</em>, éduc. spéc.</p>
 			<p>« Le dynamisme, la pertinence des propos, des explications, les qualités de communicatrice de Mme Chantal, plus le côté structuré de la formation… Vous me donnez le goût d’y investir. »</p>
 			<p><em>Mme Dou/ Francine Lagacé</em>, enseignante 4e année</p>
-			<p></p>
+			<br>
      
