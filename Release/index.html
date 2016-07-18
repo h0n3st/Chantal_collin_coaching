@@ -3,18 +3,16 @@
 	<head>
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
 		<script src="script.js"></script>
-		<script src="googleMaps.js"></script>
-		
-		<script src="http://maps.googleapis.com/maps/api/js?key=AIzaSyANYuLmKbFiIZQztHMUbbbMj158G4hTlfg"></script>
 		<link rel="stylesheet" type="text/css" href="style.css">
 	</head>
+
 	<meta name="viewport" content="width=device-width, initial-scale=1.0" charset="UTF-8">
 
 		<title>Chantal Collin Coaching</title>
 
 	</meta>
 
-	<body>
+	<body >
 
 		<div class="wrapper">
 			
@@ -36,7 +34,7 @@
 					</div>
 				</div>
 				<div class="btn col-1" >
-					<p onclick="toggleDropdown('dropdownCell01')">Profil <span style="font-weight:bold;">&#709</span></p>
+					<p onclick="toggleDropdown('dropdownCell01')">Particuliers <span style="font-weight:bold;">&#709</span></p>
 					<div class="dropdown" id="dropdownCell01">
 						<p>Coaching numéro 1</p>
 						<p>Coaching numéro 2</p>
@@ -45,26 +43,8 @@
 					</div>
 				</div>
 				<div class="btn col-1" >
-					<p onclick="toggleDropdown('dropdownCell02')">Coaching <span style="font-weight:bold;">&#709</span></p>
+					<p onclick="toggleDropdown('dropdownCell02')">Groupes <span style="font-weight:bold;">&#709</span></p>
 					<div class="dropdown" id="dropdownCell02">
-						<p>Coaching numéro 1</p>
-						<p>Coaching numéro 2</p>
-						<p>Coaching numéro 3</p>
-
-					</div>
-				</div>
-				<div class="btn col-1" >
-					<p onclick="toggleDropdown('dropdownCell03')">Particuliers <span style="font-weight:bold;">&#709</span></p>
-					<div class="dropdown" id="dropdownCell03">
-						<p>Coaching numéro 1</p>
-						<p>Coaching numéro 2</p>
-						<p>Coaching numéro 3</p>
-
-					</div>
-				</div>
-				<div class="btn col-1" >
-					<p onclick="toggleDropdown('dropdownCell04')">Groupes <span style="font-weight:bold;">&#709</span></p>
-					<div class="dropdown" id="dropdownCell04">
 						<p>Coaching numéro 1</p>
 						<p>Coaching numéro 2</p>
 						<p>Coaching numéro 3</p>
@@ -102,47 +82,26 @@
 					</div>
 				</div>
 				
-				<div class="btn" onmouseover="showDropdown('dropdownDsk04')" onmouseleave="hideDropdown()">
+				<div class="btn" onmouseover="showDropdown('dropdownDsk02')" onmouseleave="hideDropdown()">
 					<span>Groupes</span>
-					<div class="dropdown" id="dropdownDsk04">
+					<div class="dropdown" id="dropdownDsk02">
 						<p>Coaching numéro 1</p>
 						<p>Coaching numéro 2</p>
 						<p>Coaching numéro 3</p>
 					</div>
 				</div>
 				
-				<div class="btn" onmouseover="showDropdown('dropdownDsk03')" onmouseleave="hideDropdown()">
-					<span>Particuliers</span>
-					<div class="dropdown" id="dropdownDsk03">
-						<p>Coaching personnel</p>
-						<p>Coaching professionnel</p>
-						
-					</div>
-				</div>
-				<div class="btn" onmouseover="showDropdown('dropdownDsk02')" onmouseleave="hideDropdown()">
-					<span>Coaching</span>
-					<div class="dropdown" id="dropdownDsk02">
-						<p>Philosophie du coaching</p>
-						<p>Approche et outils</p>
-						<p>Rôle et responsabilités</p>
-						<p>Déontologie</p>
-						<p>Comment choisir un coach?</p>
-
-					</div>
-				</div>
 				<div class="btn" onmouseover="showDropdown('dropdownDsk01')" onmouseleave="hideDropdown()">
-					<span>Profil</span>
+					<span>Particuliers</span>
 					<div class="dropdown" id="dropdownDsk01">
-						<p>Mission</p>
-						<p>Croyances et valeurs</p>
-						<p>Parcours</p>
-						<p>Diplômmes</p>
-						<p>Compétences transversales et intérêts</p>
+						<p>Coaching numéro 1</p>
+						<p>Coaching numéro 2</p>
+						<p>Coaching numéro 3</p>
 
 					</div>
 				</div>
 				<div class="btn">
-					<span>Accueil</span>
+					<span onclick="showContent('content_home')">Accueil</span>
 					<div class="dropdown">
 
 					</div>
@@ -158,35 +117,29 @@
 
 				<div id="content_home" class="content">
 					<div class="col-4 column">
-						<img src="img_carte.jpg" style="width: 60%; height: auto;box-shadow: 10px 10px 5px grey;">
+						<img src="img_chantal.jpg" style="width: 60%; height: auto;border-radius:20px; box-shadow: 10px 10px 5px grey;">
 					</div>
-					<div class="col-4 column">
+					<div class="col-8 column">
 						
 							<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
 						-->
-							<h3>Pour me joindre</h3>
-							<p>Courrier électronique : 
-								<a href="mailto:info@chantalcollincoaching.com">info@chantalcollincoaching.com</a>
+							<h3>Titre</h3>
+							<p>
+								texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttextt<strong> Texte important </strong>texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+
+								texttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttxttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttexttex
 							</p>
-							<p>Téléphone : 514-606-9377</p>
-							<p>Pour mieux vous servir lorsque je suis en consultation, une boîte vocale est mise à votre entière disposition. Je retournerai vos appels dans les plus brefs délais</p>
+							<ul>
+							<li>Point numéro 1 <strong>important</strong></li>
+							<li>Point numéro 2 pas autant important</li>
+							</ul>
+							<p>Conclusion, <strong>explication</strong> du tout</p>
 
 							<!--!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!-->
 
 						<img src="img_ornement2.jpg">
 					</div>
-					<div id="newsletter" class="col-4 column">
-						<h3>Inscrivez-vous à ma newsletter</h3>
-						<form>
-							Votre nom :<br>
-							<input type="text" name="name"></br>
-							Votre courriel :<br>
-							<input type="text" name="email"><br>
-							<input type="submit" class="submit" value="Soumettre">
-						</form>
-					</div>
-					<div id="googleMap" style="width:75%;height:500px;margin-right:auto;margin-left:auto;display:block;margin-bottom:50px; border-radius:20px;"></div>
 				</div>
 			</div>
 			<div class="push"> </div>
