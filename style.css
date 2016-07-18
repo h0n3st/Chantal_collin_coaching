@@ -24,7 +24,8 @@
 html,body{  
             height: 100%;
             margin:0;
-            padding:0;}
+            padding:0;
+            background-color: rgb(255,255,255);}
 .wrapper {  
             min-height: 100%;
             margin-bottom: -50px;
@@ -97,7 +98,7 @@ strong  {
             color: rgb(142,34,50);
             font-weight: bold;
 }
-#main h3{   
+#main h1,h2,h3,h4,h5,h6{   
             color: rgb(142,34,50);
             word-wrap: break-word;
             text-align: center;
