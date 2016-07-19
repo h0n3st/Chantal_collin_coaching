@@ -163,12 +163,15 @@ form .submit:hover {color:rgb(142,34,50);
                 overflow: auto;
                 transform:translate(0px,15px);}
     #contacts { 
-                padding-top: 50px;
+                padding-top: 20px;
+                transform:translate(0px,40px);
                 }
     .btn {   
                 width:125px;
                 padding-left: 10px;
                 padding-right: 10px;
+                padding-top:10px;
+                padding-bottom:10px;
                 float:right;}
 
     .btn span { 
@@ -206,6 +209,9 @@ form .submit:hover {color:rgb(142,34,50);
                 }
     #profilePicture {margin-left: 8.33%;}  
     .titles {margin-right: 8.33%;}
+    .sole-column { 
+                    margin-right: 25%;
+                    margin-left: 25%;}
 }
 
 

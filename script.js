@@ -24,7 +24,7 @@ $(document).ready(function(){
 			+'			<p>Mission</p>'
 			+'			<p>Croyances et valeurs</p>'
 			+'			<p>Parcours</p>'
-			+'			<p>Diplômmes</p>'
+			+'			<p>Diplômes</p>'
 			+'			<p>Compétences transversales et intérêts</p>'
 
 			+'		</div>'
@@ -121,7 +121,7 @@ $(document).ready(function(){
 			+'			<p>Mission</p>'
 			+'			<p>Croyances et valeurs</p>'
 			+'			<p>Parcours</p>'
-			+'			<p>Diplômmes</p>'
+			+'			<p>Diplômes</p>'
 			+'			<p>Compétences transversales et intérêts</p>'
 
 			+'		</div>'
