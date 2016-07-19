@@ -4,6 +4,10 @@ Profil - profil
 			<p>Sa délicatesse témoigne de l’importance du respect qu’elle priorise dans l’accompagnement.</p>
 			<p>Sa compétence permet un espace de sécurité qui incite à une véritable transformation.</p>
 		 	<p>Son but ? Vous servir dans l’atteinte de vos objectifs. </p>
+
+
+
+		 	
 Profil - Mission
 
 			<h3>Mission<h3>
