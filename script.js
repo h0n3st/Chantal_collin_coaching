@@ -2,7 +2,7 @@
 $(document).ready(function(){
 
 	var top ='<div id="masthead" class="col-7">'
-			+'	<img src="img_logo_transparent.jpg">'
+			+'	<img src="image/img_logo_transparent.jpg">'
 			+'</div>'
 			+'<div id="contacts" class="col-5">'
 			+'	<h4>Téléphone : 514-606-9377<br>'
@@ -138,7 +138,7 @@ $(document).ready(function(){
 			+'	</div>';
 
 			var footnote = '<a href="https://www.facebook.com/chantal.collin.984" target="_blank">'
-				+'<img src="img_fb_logo.jpg" style="width:35px; height:auto; float:right; margin-top:10px; margin-right:5%; border-radius:5px;">'
+				+'<img src="image/img_fb_logo.jpg" style="width:35px; height:auto; float:right; margin-top:10px; margin-right:5%; border-radius:5px;">'
 			+'</a>';
 
 			$("#top").html(top);
