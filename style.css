@@ -1,8 +1,8 @@
 /*
     todo  
 
-        find a way to make the white background transparent on the pictures
-            make the website background color not white
+        find a way to make the rgb(255,255,240) background transparent on the pictures
+            make the website background color not rgb(255,255,240)
         Customize the dropdown buttons to look like actual buttons
         Find a font style that fits for buttons and the text better than the default one
         Manage to complete the facebook button.
@@ -15,17 +15,20 @@
 
 */
 * { box-sizing: border-box;
-    font-family:"Arial", Arial, Sans-serif;}
+    font-family:"Arial", Arial, Sans-serif;
+    
+    }
 
 /* For mobile phones: */
 [class*="col-"] {
     width: 100%;
 }
 html,body{  
+    background-color: rgb(255,255,240); 
             height: 100%;
             margin:0;
             padding:0;
-            background-color: rgb(255,255,255);}
+            }
 .wrapper {  
             min-height: 100%;
             margin-bottom: -50px;
@@ -62,8 +65,11 @@ html,body{
             padding-left: 30%;
             border-style: hidden;
 }
-.btn  span, .btn p{font-family: "Georgia", Georgia, Sans-serif;}
+.btn, .dropdown {background-color: transparent;}
+.btn  span, .btn p{background-color: transparent;
+                font-family: "Georgia", Georgia, Sans-serif;}
 #desktop_buttons {  
+
             float:left;
             padding-top: 70px; /* SUJET À CHANGEMENT, ICI LE POSITIONNEMENT DES DKT_BUTTONS */
             min-height: 100px;
@@ -129,7 +135,7 @@ strong  {
             background-size : 100% 100%;}
 
 #footnote a:hover img {
-            box-shadow: 0px 0px 15px white;}
+            box-shadow: 0px 0px 15px rgb(255,255,240);}
 
 .desktop_only {display: none;}
 .cell_only {display:block;}
@@ -180,9 +186,9 @@ form .submit:hover {color:rgb(142,34,50);
 
     .btn span { 
                 display: block;
-                color:white;
+                color:rgb(255,255,240);
                 position: relative;
-                border-bottom: 1px solid white;
+                border-bottom: 1px solid rgb(255,255,240);
                 text-align: center;
                
     }

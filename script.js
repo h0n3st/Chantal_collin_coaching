@@ -160,4 +160,7 @@ function toggleDropdown(buttons){
 
 	$("#"+buttons).slideToggle("fast");
 }
+function startDownload(){
+  window.open("Recording.m4a", 'Download');
 
+}
