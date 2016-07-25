@@ -24,7 +24,7 @@
     width: 100%;
 }
 html,body{  
-    background-color: rgb(255,255,240); 
+    background-color: rgb(255,255,230); 
             height: 100%;
             margin:0;
             padding:0;
@@ -138,7 +138,7 @@ strong  {
             background-size : 100% 100%;}
 
 #footnote a:hover img {
-            box-shadow: 0px 0px 15px rgb(255,255,240);}
+            box-shadow: 0px 0px 15px rgb(255,255,230);}
 
 .desktop_only {display: none;}
 .cell_only {display:block;}
@@ -194,9 +194,9 @@ form .submit:hover {color:rgb(142,34,50);
 
     .btn span { 
                 display: block;
-                color:rgb(255,255,240);
+                color:rgb(255,255,230);
                 position: relative;
-                border-bottom: 1px solid rgb(255,255,240);
+                border-bottom: 1px solid rgb(255,255,230);
                 text-align: center;
                
     }
