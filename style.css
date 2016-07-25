@@ -39,7 +39,9 @@ html,body{
 #masthead img { 
             display: block;
             margin-left: auto;
-            margin-right: auto;}
+            margin-right: auto;
+            width:100%;
+            height:auto;}
 
 #contacts { 
             float:right; 
@@ -80,7 +82,7 @@ html,body{
             text-decoration: none;
 }
 .dropdown{display: none;}
-#main {     
+#main {     clear:both;
             padding-left: 8.33%;
             padding-right: 8.33%;}
 .column {   
@@ -172,13 +174,15 @@ form .submit:hover {color:rgb(142,34,50);
     .cell_only{display: none;}
 
     #masthead img {
-                margin-left: 30%;
+                margin-left: 15%;
                 float:left; 
                 overflow: auto;
-                transform:translate(0px,15px);}
+                transform:translate(0px,15px);
+                width:400px;
+                height:auto;}
     #contacts { 
                 padding-top: 20px;
-                transform:translate(0px,40px);
+                transform:translate(0px,35px);
                 }
     .btn {   
                 width:125px;

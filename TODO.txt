@@ -1,7 +1,0 @@
-For the newsletter :
-	Write an entry in the database (whichever that may be)
-	Write an email to every email adress in the database
-		Access the content of the database
-		Webpage that does this?
-	Create a link to a script that unsuscribe the specified entry
-	Append automatically that link to every email sent.

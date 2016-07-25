@@ -1,14 +1,15 @@
 
 $(document).ready(function(){
 
-	var top ='<div id="masthead" class="col-7">'
-			+'	<a href="home.html"><img class = "col-7" src="image/img_logo_transparent.jpg" style = "min-height:150px;max-width:500px; height:auto;"></a>'
+	var top ='<div style="clear:both">'
+			+'	<div id="masthead" class="col-7">'
+			+'		<a href="home.html"><img class = "col-7" src="image/img_logo_transparent.jpg"></a>'
+			+'	</div>'
+			+'	<div id="contacts" class="col-5">'
+			+'		<h4>Téléphone : 514-606-9377<br>'
+			+'		Courriel : <a href="mailto:info@chantalcollincoaching.com">info@chantalcollincoaching.com</a></h4>'
+			+'	</div>'
 			+'</div>'
-			+'<div id="contacts" class="col-5">'
-			+'	<h4>Téléphone : 514-606-9377<br>'
-			+'	Courriel : <a href="mailto:info@chantalcollincoaching.com">info@chantalcollincoaching.com</a></h4>'
-			+'</div>'
-
 
 			+'<!--	buttons for cell/tablet version -->'
 			+'<div id="cell_buttons" class="col-12 cell_only">'
@@ -44,7 +45,7 @@ $(document).ready(function(){
 			+'	<div class="btn col-1" >'
 			+'		<p id="btnCell03" onclick=toggleDropdown("dropdownCell03")>Particuliers <span style="font-weight:bold;">&#709</span></p>'
 			+'		<div class="dropdown" id="dropdownCell03">'
-			+'			<p>Particuliers</p>'
+			+'			<a href="particuliers.html"><p>Particuliers</p></a>'
 			+'			<a href="coaching_personnel.html"><p>Coaching personnel</p></a>'
 			+'			<a href="coaching_professionnel.html"><p>Coaching professionnel</p></a>'
 
@@ -102,7 +103,7 @@ $(document).ready(function(){
 			+'		</div>'
 				
 			+'	<div class="btn" id="btnDsk03" onmouseover=showDropdown("dropdownDsk03") onmouseleave="hideDropdown()">'
-			+'		<span>Particuliers</span>'
+			+'		<a href="particuliers.html"><span>Particuliers</span></a>'
 			+'		<div class="dropdown" id="dropdownDsk03">'
 			+'			<a href="coaching_personnel.html"><p>Coaching personnel</p></a>'
 			+'			<a href="coaching_professionnel.html"><p>Coaching professionnel</p></a>'
