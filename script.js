@@ -2,7 +2,7 @@
 $(document).ready(function(){
 
 	var top ='<div id="masthead" class="col-7">'
-			+'	<img src="image/img_logo_transparent.jpg">'
+			+'	<a href="home.html"><img class = "col-7" src="image/img_logo_transparent.jpg" style = "min-height:150px;max-width:500px; height:auto;"></a>'
 			+'</div>'
 			+'<div id="contacts" class="col-5">'
 			+'	<h4>Téléphone : 514-606-9377<br>'
