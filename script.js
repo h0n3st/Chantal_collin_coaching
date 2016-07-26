@@ -19,28 +19,45 @@ $(document).ready(function(){
 			+'<img class="col-12 cell_only" src="image/img_wave.jpg">'
 			+'<!--	buttons for cell/tablet version -->'
 			+'<div id="cell_buttons" class="col-12 cell_only">'
-			+'	<div class="btn col-1">'
-			+'		<a href="home.html"><p>Accueil</p></a>'
+			+'	<div class="btn col-1" style="clear:both;">'
+			+'		'
+			+'			<ul>'
+			+'				<div>'
+			+'					<a href="home.html"><li class="btnCell">Accueil</li></a>'
+			+'					<li class="arrow"></li>'
+			+'				</div>'
+			+'			</ul>'
+
 			+'		<div class="dropdown">'
 
 			+'		</div>'
 			+'	</div>'
-			+'	<div class="btn col-1" >'
-			+'		<p id="btnCell01" onclick=toggleDropdown("dropdownCell01")>Profil <span style="font-weight:bold;">&#709</span></p>'
-			+'		<div class="dropdown" id="dropdownCell01">'
-			+'			<a href="profil.html"><p>Profil</p></a>'
+			+'	<div class="btn col-1" style="clear:both;">'
+			+'		'
+			+'			<ul >'
+			+'				<div>'
+			+'					<a href="profil.html">'
+			+'						<li class = "btnCell" >Profil</li>'
+			+'					</a>'
+			+'					<li  onclick=toggleDropdown("dropdownCell01","arrow01") class="arrow" id="arrow01" style="font-weight:bold;">&#709</li>'
+			+'				</div>'
+			+'			</ul>'
+			+'		<div class="dropdown col-1" id="dropdownCell01">'
 			+'			<a href="mission.html"><p>Mission</p></a>'
 			+'			<a href="croyances.html"><p>Croyances et valeurs</p></a>'
 			+'			<a href="parcours.html"><p>Parcours</p></a>'
 			+'			<a href="diplomes.html"><p>Diplômes</p></a>'
 			+'			<a href="competences.html"><p>Compétences transversales et intérêts</p></a>'
-
 			+'		</div>'
 			+'	</div>'
-			+'	<div class="btn col-1" >'
-			+'		<p id="btnCell02" onclick=toggleDropdown("dropdownCell02")>Coaching <span style="font-weight:bold;">&#709</span></p>'
+			+'	<div class="btn col-1" style="clear:both;">'
+			+'			<ul>'
+			+'				<div>'
+			+'					<a href="coaching.html"><li class ="btnCell">Coaching </li></a>'
+			+'					<li onclick=toggleDropdown("dropdownCell02","arrow02") class = "arrow" id="arrow02" style="font-weight:bold;">&#709</li>'
+			+'				</div>'
+			+'			</ul>'
 			+'		<div class="dropdown" id="dropdownCell02">'
-			+'			<a href="coaching.html"><p>Coaching</p></a>'
 			+'			<a href="philosophie.html"><p>Philosophie du coaching</p></a>'
 			+'			<a href="approche.html"><p>Approche et outils</p></a>'
 			+'			<a href="role.html"><p>Rôle et responsabilités</p></a>'
@@ -48,33 +65,51 @@ $(document).ready(function(){
 			+'			<a href="choisir.html"><p>Comment choisir un coach?</p></a>'
 			+'		</div>'
 			+'	</div>'
-			+'	<div class="btn col-1" >'
-			+'		<p id="btnCell03" onclick=toggleDropdown("dropdownCell03")>Particuliers <span style="font-weight:bold;">&#709</span></p>'
+			+'	<div class="btn col-1" style="clear:both;">'
+			+'		<ul>'
+			+'			<div>'
+			+'				<a href="particuliers.html"><li class="btnCell">Particuliers</li></a>'
+			+'				<li onclick=toggleDropdown("dropdownCell03","arrow03") class = "arrow" id="arrow03" style="font-weight:bold;">&#709</li>'
+			+'			</div>'
+			+'		</ul>'
 			+'		<div class="dropdown" id="dropdownCell03">'
-			+'			<a href="particuliers.html"><p>Particuliers</p></a>'
 			+'			<a href="coaching_personnel.html"><p>Coaching personnel</p></a>'
 			+'			<a href="coaching_professionnel.html"><p>Coaching professionnel</p></a>'
 
 			+'		</div>'
 			+'	</div>'
-			+'	<div class="btn col-1" >'
-			+'		<p id="btnCell04" onclick=toggleDropdown("dropdownCell04")>Groupes <span style="font-weight:bold;">&#709</span></p>'
+			+'	<div class="btn col-1" style="clear:both;">'
+			+'		<ul>'
+			+'			<div>'
+			+'				<li class="btnCell">Groupes </li>'
+			+'				<li onclick=toggleDropdown("dropdownCell04","arrow04") class = "arrow" id="arrow04" style="font-weight:bold;">&#709</li>'
+			+'			</div>'
+			+'		</ul>'
 			+'		<div class="dropdown" id="dropdownCell04">'
 			+'			<p>Coaching numéro 1</p>'
 			+'			<p>Coaching numéro 2</p>'
 			+'			<p>Coaching numéro 3</p>'
 			+'		</div>'
 			+'	</div>'
-			+'	<div class="btn col-1">'
-			+'		<a href="commentaires.html"><p>Commentaires</p></a>'
+			+'	<div class="btn col-1"style="clear:both;">'
+			+'			<ul>'
+			+'				<div>'
+			+'					<a href="commentaires.html"><li class="btnCell">Commentaires </li></a>'
+			+'					<li class="arrow"></li>'
+			+'				</div>'
+			+'			</ul>'
 			+'		<div class="dropdown">'
 
 			+'		</div>'
 			+'	</div>'
-			+'	<div class="btn col-1">'
-			+'		<a href="contact.html"><p>Contact</p></a>'
+			+'	<div class="btn col-1"style="clear:both;">'
+			+'			<ul>'
+			+'				<div>'
+			+'					<a href="contact.html"><li class="btnCell">Contact</li></a>'
+			+'					<li class="arrow"></li>'
+			+'				</div>'
+			+'			</ul>'
 			+'		<div class="dropdown">'
-
 			+'		</div>'
 			+'	</div>'
 
@@ -172,11 +207,20 @@ function hideDropdown(buttons){
 		});
 	}
 }
-function toggleDropdown(buttons){
+function toggleDropdown(button , arrow){
 
-	$("#"+buttons).slideToggle("fast");
+	$("#"+button).slideToggle("fast");
+	switchArrow(arrow);
 }
 function startDownload(){
   window.open("Recording.m4a", 'Download');
 
+}
+function switchArrow (arrow){
+	var downWards = "˅";
+	var upWards = "˄";
+	if ($("#"+arrow).html() == downWards)
+		$("#"+arrow).html(upWards);
+	else
+		$("#"+arrow).html(downWards);
 }

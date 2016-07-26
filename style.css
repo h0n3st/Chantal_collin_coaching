@@ -50,23 +50,66 @@ html,body{
 #cell_buttons {
             float:left;
             }
+#cell_buttons a {
+    text-decoration: none;
+    background-color: inherit;
+    color:inherit;
+}
 #cell_buttons p {
             background-color: rgb(142,34,50);
             color:rgba(237,166,0,1);
-            padding-top: 2.5%;
-            padding-bottom: 2.5%;
+            padding-top: 20px;
+            padding-bottom: 20px;
             border: 1px double rgba(237,166,0,1);
             margin-top: 0px;
             margin-bottom: 0px;
-            text-align: center;
+            min-height:30px;
                 }
-#cell_buttons p:hover { 
+#cell_buttons p:hover, #cell_buttons ul:hover > div{ 
             color:rgb(142,34,50);
             background-color: rgba(237,166,0,1);}
 #cell_buttons .dropdown p{
             padding-left: 30%;
             border-style: hidden;
 }
+#cell_buttons div { color: inherit;
+                    background-color: inherit;}
+#cell_buttons ul {  position:relative;
+                    list-style-type:none; 
+                    margin: 0;
+                    padding:0;
+                    color:rgba(237,166,0,1);
+                    background-color: rgb(142,34,50);
+                    border: 1px double rgba(237,166,0,1);
+                    clear:both;}
+                    }
+#cell_buttons ul:hover {color:rgb(142,34,50);
+                        background-color: rgba(237,166,0,1); }
+#cell_buttons li { list-style-type: none; 
+                    padding-top:20px;
+                    padding-bottom: 20px;
+                    height:50px;
+                    margin-top: 0px;
+                    margin-bottom: 0px;
+                    margin-left: 0px;
+                    padding-left:auto;
+                    padding-right: auto;}
+.btnCell {
+        width:70%;
+        padding-left: 10px;
+        border-right: none;
+        float:left;
+        background-color: inherit;
+        color:inherit;
+}
+.arrow {
+    border-left: none;
+        float:right;
+        width:30%;
+        background-color: inherit;
+        color:inherit;
+        text-align: center;
+        }
 .btn, .dropdown {background-color: transparent;}
 .btn  span, .btn p{background-color: transparent;
                 font-family: "Georgia", Georgia, Sans-serif;}
@@ -81,7 +124,8 @@ html,body{
 #desktop_buttons a, #cell_buttons a {
             text-decoration: none;
 }
-.dropdown{display: none;}
+.dropdown{display: none;
+            clear:both;}
 #main {     clear:both;
             padding-left: 8.33%;
             padding-right: 8.33%;}
