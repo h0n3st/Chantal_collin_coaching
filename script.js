@@ -1,4 +1,10 @@
 
+
+var slides = [];
+var up = "up";
+var down = "down";
+var dropdownNumber = 4;
+
 $(document).ready(function(){
 
 	var top ='<div style="clear:both">'
@@ -10,7 +16,7 @@ $(document).ready(function(){
 			+'		Courriel : <a href="mailto:info@chantalcollincoaching.com">info@chantalcollincoaching.com</a></h4>'
 			+'	</div>'
 			+'</div>'
-
+			+'<img class="col-12 cell_only" src="image/img_wave.jpg">'
 			+'<!--	buttons for cell/tablet version -->'
 			+'<div id="cell_buttons" class="col-12 cell_only">'
 			+'	<div class="btn col-1">'
@@ -93,7 +99,7 @@ $(document).ready(function(){
 			+'			</div>'
 			+'		</div>'
 			+'	</a>'
-			+'		<div class="btn" id="btnDsk04" onmouseover=showDropdown("dropdownDsk04") onmouseleave="hideDropdown()">'
+			+'		<div class="btn" id="btnDsk04" onmouseover=showDropdown("dropdownDsk04") onmouseleave=hideDropdown("dropdownDsk03")>'
 			+'			<span>Groupes</span>'
 			+'			<div class="dropdown" id="dropdownDsk04">'
 			+'				<p>Coaching numéro 1</p>'
@@ -102,14 +108,14 @@ $(document).ready(function(){
 			+'			</div>'
 			+'		</div>'
 				
-			+'	<div class="btn" id="btnDsk03" onmouseover=showDropdown("dropdownDsk03") onmouseleave="hideDropdown()">'
+			+'	<div class="btn" id="btnDsk03" onmouseover=showDropdown("dropdownDsk03") onmouseleave=hideDropdown("dropdownDsk03")>'
 			+'		<a href="particuliers.html"><span>Particuliers</span></a>'
 			+'		<div class="dropdown" id="dropdownDsk03">'
 			+'			<a href="coaching_personnel.html"><p>Coaching personnel</p></a>'
 			+'			<a href="coaching_professionnel.html"><p>Coaching professionnel</p></a>'
 			+'		</div>'
 			+'	</div>'
-			+'	<div class="btn" id="btnDsk02" onmouseover=showDropdown("dropdownDsk02") onmouseleave="hideDropdown()">'
+			+'	<div class="btn" id="btnDsk02" onmouseover=showDropdown("dropdownDsk02") onmouseleave=hideDropdown("dropdownDsk02")>'
 			+'		<a href="coaching.html"><span>Coaching</span></a>'
 			+'		<div class="dropdown" id="dropdownDsk02">'
 			+'			<a href="philosophie.html"><p>Philosophie du coaching</p></a>'
@@ -120,7 +126,7 @@ $(document).ready(function(){
 
 			+'		</div>'
 			+'	</div>'
-			+'	<div class="btn" id="btnDsk01" onmouseover=showDropdown("dropdownDsk01") onmouseleave="hideDropdown()">'
+			+'	<div class="btn" id="btnDsk01" onmouseover=showDropdown("dropdownDsk01") onmouseleave=hideDropdown("dropdownDsk01")>'
 			+'		<a href="profil.html"><span>Profil</span></a>'
 			+'		<div class="dropdown" id="dropdownDsk01">'
 			+'			<a href="mission.html"><p>Mission</p></a>'
@@ -144,18 +150,27 @@ $(document).ready(function(){
 
 			$("#top").html(top);
 			$("#footnote").html(footnote);
+			for(var i = 1 ; i <= dropdownNumber ; i ++ ){
+				slides["dropdownDsk0" + i] = up;
+			}
+			
 })
 
-function showContent(content){
-	$(".content").hide();
-	$("#"+content).show();
-}
 function showDropdown(buttons){
-	$("#"+buttons).slideDown("fast");
+	if(slides[buttons] == up)
+		$("#"+buttons).slideDown("fast", function(){
+			slides[buttons] = down;
+		});
 
 }
-function hideDropdown(){
-	$(".dropdown").slideUp("fast");
+function hideDropdown(buttons){
+	for(var i = 1 ; i <= dropdownNumber ; i ++ ){
+		var str = "dropdownDsk0" + i;
+		if(slides[str] == down)
+		$("#"+str).slideUp("fast", function(){
+			slides[str] = up;
+		});
+	}
 }
 function toggleDropdown(buttons){
 
