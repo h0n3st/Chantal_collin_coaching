@@ -116,9 +116,9 @@ html,body{
 #desktop_buttons {  
 
             float:left;
-            padding-top: 70px; /* SUJET À CHANGEMENT, ICI LE POSITIONNEMENT DES DKT_BUTTONS */
-            min-height: 100px;
-            background-image: url("image/img_wave.jpg");
+            padding-top: 120px; /* SUJET À CHANGEMENT, ICI LE POSITIONNEMENT DES DKT_BUTTONS */
+            min-height: 150px;
+            background-image: url("image/img_wave_large.jpg");
             background-repeat:  no-repeat;
             background-size : 100% 100%;}
 #desktop_buttons a, #cell_buttons a {
@@ -226,7 +226,7 @@ form .submit:hover {color:rgb(142,34,50);
                 height:auto;}
     #contacts { 
                 padding-top: 20px;
-                transform:translate(0px,35px);
+                transform:translate(0px,25px);
                 }
     .btn {   
                 width:125px;
