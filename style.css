@@ -132,8 +132,8 @@ html,body{
 .column {   
             float:left;
             display:block;
-            margin-top: 5%;
-            margin-bottom: 5%;
+            margin-top: 25px;
+            margin-bottom: 25px;
             }
 p {         
             word-wrap: break-word;
@@ -198,7 +198,7 @@ form .submit:hover {color:rgb(142,34,50);
             border-radius: 20px;}
             */
             #newsletter{display:block;}
-#profilePicture{width: 30%;}
+#profilePicture{width: 45%;}
 @media only screen and (min-width: 768px) {
     /* For desktop: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
     .col-1 {width: 8.33%;}
@@ -275,7 +275,9 @@ form .submit:hover {color:rgb(142,34,50);
                     margin-left: 20%;
                     width:60%;}
     #profilePicture {width:45%;
-                        height:auto;}
+                        height:auto;
+                    min-width: 150px;
+                    }
 }
 
 

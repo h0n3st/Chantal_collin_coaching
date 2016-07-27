@@ -6,6 +6,7 @@ $(document).ready(function(){
 
 function initialize(){
 	var myLatLng = new google.maps.LatLng(45.490091, -73.490257);
+  var parkingLatLng = new google.maps.LatLng(45.492302, -73.488280);
 	var mapProp = {
     center: myLatLng,
     zoom:15,
@@ -14,19 +15,33 @@ function initialize(){
   	
   	var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
 
-  	var marker = new google.maps.Marker({
+  	var bureauMarker = new google.maps.Marker({
   		position: myLatLng,
   		map:map,
       title: 'Mon bureau'
   	});
-    var contenu = '<h4>Mon bureau</h4>'
+    var bureauContenu = '<h4>Mon bureau</h4>'
                     +'<p>54 boul. Churchill, Greenfield Park, J4V 2L9</p>';
-    var infowindow = new google.maps.InfoWindow({
-          content: contenu
+    var bureauInfo = new google.maps.InfoWindow({
+          content: bureauContenu
         });
 
-    marker.addListener('click', function() {
-          infowindow.open(map, marker);
+    bureauMarker.addListener('click', function() {
+          bureauInfo.open(map, bureauMarker);
+        });
+    var parkingMarker = new google.maps.Marker({
+      position: parkingLatLng,
+      map:map,
+      title: 'Stationnement gratuit'
+    });
+    var parkingContenu = '<h4>Stationnement public à proximité</h4>'
+                    +"<p>Vous êtes libres d'utiliser ce stationnement gratuit facile d'accès à côté de mon bureau</p>";
+    var parkingInfo = new google.maps.InfoWindow({
+          content: parkingContenu
+        });
+
+    parkingMarker.addListener('click', function() {
+          parkingInfo.open(map, parkingMarker);
         });
 
 }
