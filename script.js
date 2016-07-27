@@ -9,7 +9,7 @@ $(document).ready(function(){
 
 	var top ='<div style="clear:both">'
 			+'	<div id="masthead" class="col-7">'
-			+'		<a href="home.html"><img class = "col-7" src="image/img_logo_transparent.jpg"></a>'
+			+'		<a href="acceuil.html"><img class = "col-7" src="image/img_logo_transparent.jpg"></a>'
 			+'	</div>'
 			+'	<div id="contacts" class="col-5">'
 			+'		<h4>Téléphone : 514-606-9377<br>'
@@ -23,7 +23,7 @@ $(document).ready(function(){
 			+'		'
 			+'			<ul>'
 			+'				<div>'
-			+'					<a href="home.html"><li class="btnCell">Accueil</li></a>'
+			+'					<a href="acceuil.html"><li class="btnCell">Accueil</li></a>'
 			+'					<li class="arrow"></li>'
 			+'				</div>'
 			+'			</ul>'
@@ -171,7 +171,7 @@ $(document).ready(function(){
 			+'		</div>'
 			+'	</div>'
 			+'	<div class="btn">'
-			+'		<a href="home.html"><span>Accueil</span></a>'
+			+'		<a href="acceuil.html"><span>Accueil</span></a>'
 			+'		<div class="dropdown">'
 
 			+'		</div>'
