@@ -29,8 +29,12 @@ function initialize(){
     bureauMarker.addListener('click', function() {
           bureauInfo.open(map, bureauMarker);
         });
+
+
+    var parkingIcon = 'https://maps.google.com/mapfiles/kml/shapes/parking_lot_maps.png';
     var parkingMarker = new google.maps.Marker({
       position: parkingLatLng,
+      icon : parkingIcon,
       map:map,
       title: 'Stationnement gratuit'
     });

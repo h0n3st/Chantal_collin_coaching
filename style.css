@@ -129,7 +129,7 @@ html,body{
 #main {     clear:both;
             padding-left: 8.33%;
             padding-right: 8.33%;}
-.column {   
+.column, .special-column, .sole-column {   
             float:left;
             display:block;
             margin-top: 25px;
@@ -186,18 +186,9 @@ strong  {
 
 .desktop_only {display: none;}
 .cell_only {display:block;}
-/*
-form {text-align: center;}
-form input {margin:10px 10px;
-            border-radius: 5px;}
-form .submit {  color:rgba(237,166,0,1);
-                background-color:rgb(142,34,50); }
-form .submit:hover {color:rgb(142,34,50);
-                background-color:rgba(237,166,0,1) }
-#newsletter {background-color:rgba(237,166,0,0.3); 
-            border-radius: 20px;}
-            */
-            #newsletter{display:block;}
+.special-column {background-color: rgba(237,166,0,0.2);
+                    border-radius: 30px;}
+#newsletter{display:block;}
 #profilePicture{width: 45%;}
 @media only screen and (min-width: 768px) {
     /* For desktop: !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!*/
@@ -271,15 +262,14 @@ form .submit:hover {color:rgb(142,34,50);
                 } 
     .titles {margin-right: 8.33%;}
     .sole-column { 
-                    margin-right: 20%;
-                    margin-left: 20%;
-                    width:60%;}
+                    margin-right: 25%;
+                    margin-left: 25%;
+                    width:50%;}
     #profilePicture {width:45%;
                         height:auto;
                     min-width: 150px;
                     }
-    .special-column {background-color: rgba(237,166,0,0.2);
-                    border-radius: 50px;}
+    
 }
 
 
