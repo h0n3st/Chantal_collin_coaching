@@ -39,7 +39,7 @@ function initialize(){
       title: 'Stationnement gratuit'
     });
     var parkingContenu = '<h4>Stationnement public à proximité</h4>'
-                    +"<p>Vous êtes libres d'utiliser ce stationnement gratuit facile d'accès à côté de mon bureau</p>";
+                    +"<p>VPour les formations d'une journée, je vous invite à utiliser ce stationnement gratuit facile d'accès à côté de mon bureau</p>";
     var parkingInfo = new google.maps.InfoWindow({
           content: parkingContenu
         });
